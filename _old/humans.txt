@@ -1,0 +1,12 @@
+	Author:
+		Tony Camaiani
+		Frontend Web Developer
+		http://tony.camaiani.it
+		tony [at] camaiani [dot] it
+		@tonycamaiani
+
+	Site:
+		Standards: XHTML, CSS (going to upgrade soon :) )
+		Components: jQuery
+		Languages: English, Italiano, Español
+  
